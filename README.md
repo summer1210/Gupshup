@@ -16,3 +16,4 @@ Built cross-platform group chat application that authenticates users using Fireb
 - Learn about Streams and how they work.
 - Learn to use ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+![Simulator Screen Recording - Summer's iphone - 2022-07-26 at 21 35 25](https://user-images.githubusercontent.com/70427674/181056922-083e1560-83c7-4ebc-9c69-0d468d05a1b3.gif)
