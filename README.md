@@ -1,9 +1,10 @@
 
-# Flash Chat ⚡️
+# Gup Shup ⚡️
 
-We’re going to build a modern messaging app where users can sign up and log in to chat.
+Built cross-platform group chat application that authenticates users using Firebase and stores data in the cloud Firestore. To engage in real-time chat, the user can register and login with those credentials. Uses Hero, modal progress hud and animated text to enhance the UI.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+## Tech Stack : Flutter || Dart ||Firebase||Cloud Firestore || Yaml || Xml
+
 
 ## Things I learnt :--
 
